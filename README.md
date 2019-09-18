@@ -34,3 +34,4 @@ class ViewController: MVVMViewController<ViewModel> {
 }
 ```
 
+Feel free to tailor the code to your needs.
